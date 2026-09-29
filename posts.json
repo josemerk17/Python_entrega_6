@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "titulo": "Primeros pasos con Python",
+        "contenido": "En este post veremos cómo empezar a programar con Python.",
+        "autor": {
+            "nombre": "José Mercado",
+            "bio": "Estudiante de desarrollo web.",
+            "especialidad": "Desarrollo Web",
+            "redes_sociales": [
+                "@jose_dev"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Principiantes"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Aprendiendo desarrollo web",
+        "contenido": "Conceptos básicos para comenzar en desarrollo web.",
+        "autor": {
+            "nombre": "José Mercado",
+            "bio": "Estudiante de desarrollo web.",
+            "especialidad": "Desarrollo Web",
+            "redes_sociales": [
+                "@jose_dev"
+            ]
+        },
+        "tags": [
+            "HTML",
+            "CSS",
+            "Web"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Estructuras de datos en Python",
+        "contenido": "Uso de listas, diccionarios, tuplas y sets.",
+        "autor": {
+            "nombre": "José Mercado",
+            "bio": "Estudiante de desarrollo web.",
+            "especialidad": "Desarrollo Web",
+            "redes_sociales": [
+                "@jose_dev"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Diccionarios"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "Aprendiendo python",
+        "contenido": "Estoy aprendiendo los fundamentos de Python y programación orientada a objetos.",
+        "autor": {
+            "nombre": "Jose mercado",
+            "bio": "Autor del blog",
+            "especialidad": "",
+            "redes_sociales": []
+        },
+        "tags": [
+            "python"
+        ],
+        "estado": "publicado"
+    }
+]
